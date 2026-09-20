@@ -1,4 +1,4 @@
-# 🧠 GenAI & RAG Hands-On Practice (Module 3)
+# 🧠 GenAI & RAG Hands-On Practice
 
 A hands-on, beginner-friendly practice repository covering **Embeddings, Semantic Search, and Retrieval-Augmented Generation (RAG)**.
 
