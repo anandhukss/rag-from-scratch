@@ -1,0 +1,11 @@
+# Core ML & Embeddings
+sentence-transformers>=3.0.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
+
+# Jupyter & Visualization
+ipykernel>=6.29.0
+matplotlib>=3.8.0
+
+# LLM APIs (for RAG demos)
+openai>=1.30.0

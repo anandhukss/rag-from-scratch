@@ -1,0 +1,55 @@
+# Class notes (keep local/private, do not commit)
+classes/
+notes/
+Class_*
+*.ipynb_checkpoints/
+
+# Virtual environments & package managers
+.venv/
+env/
+venv/
+ENV/
+
+# Large media & video files
+*.mkv
+*.mp4
+*.avi
+*.mov
+
+# Environment variables & secrets
+.env
+*.pem
+*.key
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Mac OS & Editor artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.idea/
+.vscode/
+*.swp
+*.swo
