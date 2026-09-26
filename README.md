@@ -9,10 +9,11 @@ A hands-on, beginner-friendly practice repository covering **Embeddings, Semanti
 ```text
 .
 ├── practice/
-│   └── 01_Understanding_Cosine_Similarity.ipynb   # Hands-on cosine similarity & mini-RAG retriever
-├── requirements.txt                               # Project dependencies
-├── .gitignore                                     # Excludes class notes, venv, and large files
-└── README.md                                      # Setup & execution instructions
+│   ├── 01_Understanding_Cosine_Similarity.ipynb       # Hands-on cosine similarity & mini-RAG retriever
+│   └── 02_Document_Chunking_Strategies_in_RAG.ipynb   # 7 chunking strategies, tokenizer analysis & ChromaDB retrieval
+├── requirements.txt                                   # Project dependencies
+├── .gitignore                                         # Excludes class notes, venv, and large files
+└── README.md                                          # Setup & execution instructions
 ```
 
 > **Note on Course Lecture Notes:**  
